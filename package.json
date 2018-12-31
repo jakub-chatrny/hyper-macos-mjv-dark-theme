@@ -1,11 +1,11 @@
 {
     "name": "hyper-macos-mjv-dark-theme",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Pretty window controls from the Arc Dark theme for hyper",
     "main": "index.js",
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/moso/hyper-arc-dark-controls.git"
+      "url": "https://github.com/jakub-chatrny/hyper-macos-mjv-dark-theme"
     },
     "keywords": [
       "hyper",
@@ -13,10 +13,10 @@
       "hyper-plugin",
       "hyperterm-plugin",
       "plugin",
-      "arc",
-      "arc dark",
+      "macos theme",
+      "mojave theme",
       "window controls"
     ],
-    "author": "Morten Sørensen <morten@moso.io>",
-    "license": "MIT"
+    "author": "Jakub Chatrný",
+    "license": "Apache 2.0"
   }

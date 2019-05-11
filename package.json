@@ -1,7 +1,7 @@
 {
     "name": "hyper-macos-mjv-dark-theme",
     "version": "0.2.0",
-    "description": "Pretty window controls from the Arc Dark theme for hyper",
+    "description": "Change window controls to gnome shell theme MacOS mjv dark theme",
     "main": "index.js",
     "repository": {
       "type": "git",
@@ -13,7 +13,7 @@
       "hyper-plugin",
       "hyperterm-plugin",
       "plugin",
-      "macos theme",
+      "macos mojave gnome shell theme",
       "mojave theme",
       "window controls"
     ],
